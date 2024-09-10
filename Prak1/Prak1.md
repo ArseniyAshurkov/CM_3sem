@@ -15,7 +15,9 @@ for i in $(seq 1 $((length + 2))); do
 done
 
 echo "+${line}+"
+
 echo "| ${text} |"
+
 echo "+${line}+"
 
 ### Задание 4
